@@ -1,12 +1,10 @@
 ## Build From Sources
 1.Clone the repo 
-```
-bash
+```bash
 git clone: https://github.com/Faiyaz-Zaman/tableauprojects.git
 ```
 2. Initialize and activate virtual env 
-```
-bash
+```bash
 virtualenv --no-site-packages venv
 source venv/bin/activate
 ```
