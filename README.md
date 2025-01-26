@@ -12,7 +12,11 @@ source venv/bin/activate
 ```bash
 pip install -r requirements.txt
 ```
+4.Check the scrapped data
+```bash
+https://github.com/Faiyaz-Zaman/tableauprojects/blob/main/bestcsscientistsproject/best_cs_scientist_details.csv
 
+```
 
 
 
