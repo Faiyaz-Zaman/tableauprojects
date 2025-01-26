@@ -1,5 +1,5 @@
 #Problem Statement
-The goal of this project is to gather information of best 1000 computer Science researchers from [this website] https://research.com/scientists-rankings/best-scientists/us?page={page_id}%22
+The goal of this project is to gather information of best 1000 computer Science researchers from [this website]https://research.com/scientists-rankings/best-scientists/us?page={page_id}%22
 Later we used the scraped data to understand the following demographics and correlations using Tableau dashboard:
 1. Scientists and the average publication in European countries
 2. Average citations in each university in Asia
